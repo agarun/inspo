@@ -1,5 +1,5 @@
 # inspiration on the web
-my sources for inspiration to software development and design
+my sources for inspiration to software development and design (& life)
 
 ## portfolios
 http://bradfrost.com/  
@@ -21,6 +21,8 @@ https://fabiofranchino.com/
 http://www.syedrezaali.com/  
 https://ethanmarcotte.com/  
 http://xie-emily.com/  
+http://russellgoldenberg.github.io/   
+https://driven-by-data.net/  
 http://1023.io/  
 http://www.lensco.be/  
 https://hakim.se/  
@@ -44,6 +46,7 @@ https://ultimateangular.com/
 https://www.headspace.com/  
 https://asana.com/  
 http://fivethirtyeight.com/  
+http://flowingdata.com/   
 https://abseil.io/  
 https://socratic.org/  
 https://khan.github.io/KaTeX/  
@@ -54,6 +57,14 @@ discordapp.com
 http://gradients.io/  
 http://colorsupplyyy.com/app/  
 https://labs.500px.com/  
+https://99percentinvisible.org/episodes/    
+https://github.com/sp4ke/awesome-explorables  
+
+## websites (more ui/ux focused)
+https://refactoringui.com/  
+https://www.smashingmagazine.com/  
+https://www.lapa.ninja/  
+https://www.behance.net/search?field=102 / https://www.behance.net/search?field=79  
 
 ## art
 https://twitter.com/beesandbombs  
@@ -62,8 +73,12 @@ http://www.zuzamengham.com/
 https://www.behance.net/agarunovaa4fd3/appreciated behance favorites   
 http://mgl.scripps.edu/people/goodsell/illustration/public david goodsell's illustrations   
 http://www.johnwilliamkeedy.com/itshardlynoticeable/  
+https://www.artprize.org/54655   
+http://www.kogler.net/  
+http://www.thisiscolossal.com/2018/06/human-microbiome-by-rogan-brown/  
 
 ## films
+https://www.youtube.com/playlist?list=PLrV_BP5Fb2nHjABJ9jF06LhpR9VSCmKGb  
 it's such a beautiful day (don hertzfeldt)  
 baraka  
 samsara  

@@ -34,6 +34,7 @@ http://www.andrelafleurphoto.com
 http://www.madebyfinn.com   
 http://stewartsmith.io   
 http://lauren-mccarthy.com/   
+https://www.joshwcomeau.com/   
 
 ## websites
 http://ncase.me/   

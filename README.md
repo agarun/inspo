@@ -1,5 +1,4 @@
 # inspiration on the web
-my sources for inspiration to software development and design (& life)
 
 ## portfolios
 http://bradfrost.com/  
@@ -66,7 +65,7 @@ https://99percentinvisible.org/episodes/
 https://github.com/sp4ke/awesome-explorables    
 https://anvaka.github.io/pixchart   
 
-## websites (more ui/ux focused)
+## ui/ux
 https://refactoringui.com/  
 https://www.smashingmagazine.com/  
 https://www.lapa.ninja/  
@@ -104,7 +103,7 @@ paprika
 senna  
 
 ### music
-there is just too much  
+too much
 
 ### books
 soon

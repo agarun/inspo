@@ -46,10 +46,13 @@ https://gradle.org/
 http://youngandhungry.co/  
 https://atomiks.github.io/reddit-user-analyser/  
 https://ultimateangular.com/  
+https://stripe.com/   
+https://squareup.com   
 https://www.headspace.com/  
 https://www.getpostman.com/  
 https://asana.com/  
 https://discordapp.com/  
+https://harvardlawreview.org/   
 http://fivethirtyeight.com/  
 http://flowingdata.com/   
 https://www.redblobgames.com/   
@@ -72,6 +75,7 @@ https://www.smashingmagazine.com/
 https://www.lapa.ninja/  
 https://www.behance.net/search?field=102 / https://www.behance.net/search?field=79   
 https://adamschwartz.co/magic-of-css/  
+https://aerolab.co/portfolio  
 
 ## art & design
 https://twitter.com/manoloidee http://manoloide.com/    

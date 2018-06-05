@@ -91,7 +91,9 @@ https://www.janicesung.com/
 http://zenbullets.com/images.php   
 https://codepen.io/jda0/full/aYmLvJ https://redd.it/853h0f  
 
-## films
+## extras
+
+### films
 https://www.youtube.com/playlist?list=PLrV_BP5Fb2nHjABJ9jF06LhpR9VSCmKGb  
 it's such a beautiful day (don hertzfeldt)  
 baraka  
@@ -100,9 +102,9 @@ helvetica
 paprika  
 senna  
 
-## music
+### music
 there is just too much  
 
-## books
+### books
 soon
 

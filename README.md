@@ -44,9 +44,11 @@ http://youngandhungry.co/
 https://atomiks.github.io/reddit-user-analyser/  
 https://ultimateangular.com/  
 https://www.headspace.com/  
+https://www.getpostman.com/  
 https://asana.com/  
 http://fivethirtyeight.com/  
 http://flowingdata.com/   
+https://www.redblobgames.com/   
 https://abseil.io/  
 https://socratic.org/  
 https://khan.github.io/KaTeX/  
@@ -66,8 +68,9 @@ https://www.smashingmagazine.com/
 https://www.lapa.ninja/  
 https://www.behance.net/search?field=102 / https://www.behance.net/search?field=79  
 
-## art
+## art & design
 https://twitter.com/beesandbombs  
+https://twitter.com/hexeosis  
 https://www.dwitter.net/  
 http://www.zuzamengham.com/   
 https://www.behance.net/agarunovaa4fd3/appreciated behance favorites   
@@ -75,7 +78,9 @@ http://mgl.scripps.edu/people/goodsell/illustration/public david goodsell's illu
 http://www.johnwilliamkeedy.com/itshardlynoticeable/  
 https://www.artprize.org/54655   
 http://www.kogler.net/  
-http://www.thisiscolossal.com/2018/06/human-microbiome-by-rogan-brown/  
+http://www.thisiscolossal.com/2018/06/human-microbiome-by-rogan-brown/   
+https://www.meredithschomburg.com/   
+https://www.janicesung.com/   
 
 ## films
 https://www.youtube.com/playlist?list=PLrV_BP5Fb2nHjABJ9jF06LhpR9VSCmKGb  
@@ -85,6 +90,9 @@ samsara
 helvetica  
 paprika  
 senna  
+
+## music
+there is just too much  
 
 ## books
 soon

@@ -32,8 +32,11 @@ http://www.mehtapaydin.com/
 http://www.kevinli.com.au/   
 http://www.andrelafleurphoto.com    
 http://www.madebyfinn.com   
+http://stewartsmith.io   
+http://lauren-mccarthy.com/   
 
 ## websites
+http://ncase.me/   
 http://polygraph.cool/  
 https://pudding.cool/  
 https://www.openprocessing.org/  
@@ -46,6 +49,7 @@ https://ultimateangular.com/
 https://www.headspace.com/  
 https://www.getpostman.com/  
 https://asana.com/  
+https://discordapp.com/  
 http://fivethirtyeight.com/  
 http://flowingdata.com/   
 https://www.redblobgames.com/   
@@ -54,21 +58,24 @@ https://socratic.org/
 https://khan.github.io/KaTeX/  
 https://smittenkitchen.com  
 https://www.thebasetrip.com/en  
-slack.com  
-discordapp.com  
 http://gradients.io/  
 http://colorsupplyyy.com/app/  
 https://labs.500px.com/  
 https://99percentinvisible.org/episodes/    
-https://github.com/sp4ke/awesome-explorables  
+https://github.com/sp4ke/awesome-explorables    
+https://anvaka.github.io/pixchart   
 
 ## websites (more ui/ux focused)
 https://refactoringui.com/  
 https://www.smashingmagazine.com/  
 https://www.lapa.ninja/  
-https://www.behance.net/search?field=102 / https://www.behance.net/search?field=79  
+https://www.behance.net/search?field=102 / https://www.behance.net/search?field=79   
+https://adamschwartz.co/magic-of-css/  
 
 ## art & design
+https://twitter.com/manoloidee http://manoloide.com/    
+https://inconvergent.net/  
+https://n-e-r-v-o-u-s.com/   
 https://twitter.com/beesandbombs  
 https://twitter.com/hexeosis  
 https://www.dwitter.net/  
@@ -81,6 +88,8 @@ http://www.kogler.net/
 http://www.thisiscolossal.com/2018/06/human-microbiome-by-rogan-brown/   
 https://www.meredithschomburg.com/   
 https://www.janicesung.com/   
+http://zenbullets.com/images.php   
+https://codepen.io/jda0/full/aYmLvJ https://redd.it/853h0f  
 
 ## films
 https://www.youtube.com/playlist?list=PLrV_BP5Fb2nHjABJ9jF06LhpR9VSCmKGb  

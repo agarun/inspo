@@ -24,11 +24,17 @@ http://xie-emily.com/
 http://1023.io/  
 http://www.lensco.be/  
 https://hakim.se/  
-https://homes.cs.washington.edu/~jheer/  
+http://juerglehni.com/  
+https://homes.cs.washington.edu/~jheer/    
+http://www.mehtapaydin.com/  
+http://www.kevinli.com.au/   
+http://www.andrelafleurphoto.com    
+http://www.madebyfinn.com   
 
 ## websites
 http://polygraph.cool/  
 https://pudding.cool/  
+https://www.openprocessing.org/  
 https://mediaqueri.es/  
 https://hightide.earth  
 https://gradle.org/  
@@ -48,3 +54,23 @@ discordapp.com
 http://gradients.io/  
 http://colorsupplyyy.com/app/  
 https://labs.500px.com/  
+
+## art
+https://twitter.com/beesandbombs  
+https://www.dwitter.net/  
+http://www.zuzamengham.com/   
+https://www.behance.net/agarunovaa4fd3/appreciated behance favorites   
+http://mgl.scripps.edu/people/goodsell/illustration/public david goodsell's illustrations   
+http://www.johnwilliamkeedy.com/itshardlynoticeable/  
+
+## films
+it's such a beautiful day (don hertzfeldt)  
+baraka  
+samsara  
+helvetica  
+paprika  
+senna  
+
+## books
+soon
+

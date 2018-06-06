@@ -39,9 +39,10 @@ http://transphormetic.com/
 http://sansumbrella.com/    
 
 ## websites
+https://distill.pub/   
 http://ncase.me/   
-http://polygraph.cool/  
-https://pudding.cool/  
+http://polygraph.cool/   
+https://pudding.cool/   
 https://www.openprocessing.org/  
 https://mediaqueri.es/  
 https://hightide.earth  
@@ -79,6 +80,7 @@ https://www.lapa.ninja/
 https://www.behance.net/search?field=102 / https://www.behance.net/search?field=79   
 https://adamschwartz.co/magic-of-css/  
 https://aerolab.co/portfolio  
+https://fontsinuse.com/   
 
 ## art & design
 https://twitter.com/manoloidee http://manoloide.com/    
@@ -100,6 +102,7 @@ http://zenbullets.com/images.php
 https://codepen.io/jda0/full/aYmLvJ https://redd.it/853h0f  
 https://www.google.com/search?q=sol+lewitt&source=lnms&tbm=isch    
 https://experiments.withgoogle.com/collection/arts-culture   
+http://www.complexification.net/gallery/   
 
 
 ## extras

@@ -34,6 +34,9 @@ http://www.madebyfinn.com
 http://stewartsmith.io   
 http://lauren-mccarthy.com/   
 https://www.joshwcomeau.com/   
+http://kylemcdonald.net/    
+http://transphormetic.com/    
+http://sansumbrella.com/    
 
 ## websites
 http://ncase.me/   
@@ -95,6 +98,9 @@ https://www.meredithschomburg.com/
 https://www.janicesung.com/   
 http://zenbullets.com/images.php   
 https://codepen.io/jda0/full/aYmLvJ https://redd.it/853h0f  
+https://www.google.com/search?q=sol+lewitt&source=lnms&tbm=isch    
+https://experiments.withgoogle.com/collection/arts-culture   
+
 
 ## extras
 

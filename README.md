@@ -37,6 +37,7 @@ https://www.joshwcomeau.com/
 http://kylemcdonald.net/    
 http://transphormetic.com/    
 http://sansumbrella.com/    
+http://jamie-wong.com/post/color/   
 
 ## websites
 https://distill.pub/   

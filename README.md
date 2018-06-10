@@ -9,6 +9,7 @@ http://simonpan.com/
 http://shiffman.net/  
 http://jedmund.com/home  
 http://kjschaef.com/  
+http://amandapinsker.com/   
 http://www.jacksonalsop.com/  
 https://www.johnsto.co.uk/  
 https://bost.ocks.org/mike/  

@@ -123,7 +123,7 @@ paprika
 senna  
 
 ### music
-too much
+https://agarun.com/posts/loved-lists/   
 
 ### books
 soon

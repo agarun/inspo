@@ -40,6 +40,8 @@ http://transphormetic.com/
 http://sansumbrella.com/    
 http://jamie-wong.com/post/color/   
 https://prestonmcpeak.com/   
+http://kyledecker.me/   
+https://desandro.com    
 
 ## websites
 https://distill.pub/   
@@ -84,6 +86,7 @@ https://www.behance.net/search?field=102 / https://www.behance.net/search?field=
 https://adamschwartz.co/magic-of-css/  
 https://aerolab.co/portfolio  
 https://fontsinuse.com/   
+https://uxdesign.cc/the-best-medium-publications-from-design-teams-to-follow-fc609bdd49d2 https://uxdesign.cc/     
 
 ## art & design
 https://twitter.com/manoloidee http://manoloide.com/    

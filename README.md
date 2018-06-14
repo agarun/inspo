@@ -42,6 +42,7 @@ http://jamie-wong.com/post/color/
 https://prestonmcpeak.com/   
 http://kyledecker.me/   
 https://desandro.com    
+http://mrmrs.cc/   
 
 ## websites
 https://distill.pub/   

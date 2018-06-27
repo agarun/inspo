@@ -43,6 +43,7 @@ https://prestonmcpeak.com/
 http://kyledecker.me/   
 https://desandro.com    
 http://mrmrs.cc/   
+http://jxnblk.com/   
 
 ## websites
 https://distill.pub/   

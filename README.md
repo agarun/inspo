@@ -47,7 +47,7 @@ http://jxnblk.com/
 http://labs.jensimmons.com/   
 http://roman.nurik.net/   
 
-## websites
+## web design
 https://distill.pub/   
 http://ncase.me/   
 http://polygraph.cool/   
@@ -93,7 +93,7 @@ https://aerolab.co/portfolio
 https://fontsinuse.com/   
 https://uxdesign.cc/the-best-medium-publications-from-design-teams-to-follow-fc609bdd49d2 https://uxdesign.cc/     
 
-## art & design
+## art, design
 https://twitter.com/manoloidee http://manoloide.com/    
 https://inconvergent.net/  
 https://n-e-r-v-o-u-s.com/   
@@ -116,7 +116,7 @@ https://experiments.withgoogle.com/collection/arts-culture
 http://www.complexification.net/gallery/   
 
 
-## extras
+## personal extras
 
 ### films
 https://www.youtube.com/playlist?list=PLrV_BP5Fb2nHjABJ9jF06LhpR9VSCmKGb  

@@ -45,6 +45,7 @@ https://desandro.com
 http://mrmrs.cc/   
 http://jxnblk.com/   
 http://labs.jensimmons.com/   
+http://roman.nurik.net/   
 
 ## websites
 https://distill.pub/   

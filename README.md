@@ -47,7 +47,7 @@ http://jxnblk.com/
 http://labs.jensimmons.com/   
 http://roman.nurik.net/   
 
-## web design
+## websites, web design
 https://distill.pub/   
 http://ncase.me/   
 http://polygraph.cool/   
@@ -69,7 +69,6 @@ https://harvardlawreview.org/
 http://fivethirtyeight.com/  
 http://flowingdata.com/   
 https://www.redblobgames.com/   
-https://abseil.io/  
 https://socratic.org/  
 https://khan.github.io/KaTeX/  
 https://smittenkitchen.com  

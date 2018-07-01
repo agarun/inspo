@@ -47,6 +47,7 @@ http://jxnblk.com/
 http://labs.jensimmons.com/   
 http://roman.nurik.net/   
 http://andrealikes.to   
+http://www.mehtapaydin.com/   
 
 ## websites, web design
 https://distill.pub/   

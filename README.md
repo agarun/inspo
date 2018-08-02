@@ -50,6 +50,7 @@ http://andrealikes.to
 http://tomhegen.de/  
 http://studiomast.co/projects/  
 http://joelcalifa.com   
+https://jaredpalmer.com/  
 
 ## websites, web design
 https://distill.pub/   

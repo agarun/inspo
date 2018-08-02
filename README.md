@@ -85,6 +85,7 @@ https://github.com/sp4ke/awesome-explorables
 https://anvaka.github.io/pixchart   
 http://www.primemotive.com.au/   
 https://viacreative.co.uk/    
+https://keepachangelog.com/     
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

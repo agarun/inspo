@@ -51,6 +51,8 @@ http://tomhegen.de/
 http://studiomast.co/projects/  
 http://joelcalifa.com   
 https://jaredpalmer.com/  
+http://sarahlim.com/   
+http://toroskose.com/   
 
 ## websites, web design
 https://distill.pub/   
@@ -87,6 +89,7 @@ https://anvaka.github.io/pixchart
 http://www.primemotive.com.au/   
 https://viacreative.co.uk/    
 https://keepachangelog.com/     
+https://www.streamlineicons.com/    
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

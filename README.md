@@ -53,6 +53,7 @@ http://joelcalifa.com
 https://jaredpalmer.com/  
 http://sarahlim.com/   
 http://toroskose.com/   
+http://www.stainlessvision.com/   
 
 ## websites, web design
 https://distill.pub/   

@@ -54,6 +54,11 @@ https://jaredpalmer.com/
 http://sarahlim.com/   
 http://toroskose.com/   
 http://www.stainlessvision.com/   
+https://www.gizemvural.net/  
+https://kitze.io/   
+http://broccolini.net/  
+https://lmgonzalves.com/   
+http://mjsarfatti.com/ 
 
 ## websites, web design
 https://distill.pub/   

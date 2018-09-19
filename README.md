@@ -115,7 +115,7 @@ https://n-e-r-v-o-u-s.com/
 https://twitter.com/beesandbombs  
 https://twitter.com/hexeosis  
 https://www.dwitter.net/  
-http://www.zuzamengham.com/   
+http://www.zuzamengham.com/ http://www.zuzamengham.com/#/lab-perfumes/       
 https://www.behance.net/agarunovaa4fd3/appreciated behance favorites   
 http://mgl.scripps.edu/people/goodsell/illustration/public david goodsell's illustrations   
 http://www.johnwilliamkeedy.com/itshardlynoticeable/  
@@ -129,6 +129,7 @@ https://codepen.io/jda0/full/aYmLvJ https://redd.it/853h0f
 https://www.google.com/search?q=sol+lewitt&source=lnms&tbm=isch    
 https://experiments.withgoogle.com/collection/arts-culture   
 http://www.complexification.net/gallery/   
+https://www.behance.net/gallery/60093793/Debeaulieu   
 
 
 ## personal extras

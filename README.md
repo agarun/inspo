@@ -58,7 +58,8 @@ https://www.gizemvural.net/
 https://kitze.io/   
 http://broccolini.net/  
 https://lmgonzalves.com/   
-http://mjsarfatti.com/ 
+http://mjsarfatti.com/   
+https://hyperglu.com/   
 
 ## websites, web design
 https://distill.pub/   

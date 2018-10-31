@@ -76,7 +76,7 @@ http://benedictredgrove.com/
 http://timothyachumba.com/   
 https://williamchanner.com/   
 
-## websites, web design
+## websites
 https://distill.pub/   
 http://ncase.me/   
 http://polygraph.cool/   
@@ -122,19 +122,21 @@ http://minimal.gallery
 https://www.pages.xyz/   
 https://thegallery.io/   
 http://nicelydone.club/    
+https://pttrns.com/   
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   
 https://refactoringui.com/  
 https://www.smashingmagazine.com/  
 https://www.lapa.ninja/  
-https://www.behance.net/search?field=102 / https://www.behance.net/search?field=79   
+https://www.behance.net/search?field=102 https://www.behance.net/search?field=79   
 https://adamschwartz.co/magic-of-css/  
 https://aerolab.co/portfolio  
 https://fontsinuse.com/   
-https://uxdesign.cc/the-best-medium-publications-from-design-teams-to-follow-fc609bdd49d2 https://uxdesign.cc/     
+https://uxdesign.cc/the-best-medium-publications-from-design-teams-to-follow-fc609bdd49d2 https://uxdesign.cc/   
+https://www.designbetter.co/   
 
-## art, design
+## art
 https://twitter.com/manoloidee http://manoloide.com/    
 https://inconvergent.net/  
 https://n-e-r-v-o-u-s.com/   
@@ -159,7 +161,7 @@ https://www.behance.net/gallery/60093793/Debeaulieu
 https://www.behance.net/gallery/70006493/36-Days-of-Type-2018   
 
 
-## personal extras
+## extras
 
 ### films
 disclaimer, i've not seen many films

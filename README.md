@@ -103,6 +103,8 @@ http://www.primemotive.com.au/
 https://viacreative.co.uk/    
 https://keepachangelog.com/     
 https://www.streamlineicons.com/    
+https://insidethehead.co   
+https://interfacelovers.com   
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

@@ -73,6 +73,8 @@ http://sergiogarcia.design
 https://www.koysor.me/    
 http://elizabethgoodspeed.com/    
 http://benedictredgrove.com/      
+http://timothyachumba.com/   
+https://williamchanner.com/   
 
 ## websites, web design
 https://distill.pub/   

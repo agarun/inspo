@@ -68,7 +68,10 @@ http://martijnvandenbroeck.com
 https://www.visualcinnamon.com/   
 https://benbate.com/   
 https://works.pm/     
-
+https://www.josefinelaul.com/   
+http://sergiogarcia.design     
+https://www.koysor.me/    
+http://elizabethgoodspeed.com/    
 
 ## websites, web design
 https://distill.pub/   
@@ -110,8 +113,12 @@ https://insidethehead.co
 https://interfacelovers.com   
 https://unrtd.co/ https://unrtd.co/index/brendan-monroe       
 https://www.typewolf.com/   
-https://bench.li/     
-
+https://bench.li/      
+https://ueno.design/     
+http://minimal.gallery      
+https://www.pages.xyz/   
+https://thegallery.io/   
+http://nicelydone.club/    
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   
@@ -152,6 +159,8 @@ https://www.behance.net/gallery/70006493/36-Days-of-Type-2018
 ## personal extras
 
 ### films
+disclaimer, i've not seen many films
+
 https://www.youtube.com/playlist?list=PLrV_BP5Fb2nHjABJ9jF06LhpR9VSCmKGb  
 it's such a beautiful day (don hertzfeldt)  
 baraka  
@@ -164,5 +173,5 @@ senna
 https://agarun.com/posts/loved-lists/   
 
 ### books
-soon
+very™ soon
 

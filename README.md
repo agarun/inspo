@@ -159,7 +159,7 @@ https://experiments.withgoogle.com/collection/arts-culture
 http://www.complexification.net/gallery/   
 https://www.behance.net/gallery/60093793/Debeaulieu   
 https://www.behance.net/gallery/70006493/36-Days-of-Type-2018   
-
+http://rectangleworld.com/blog/archives/462 https://www.flickr.com/photos/dangries    
 
 ## extras
 

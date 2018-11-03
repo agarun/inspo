@@ -75,6 +75,7 @@ http://elizabethgoodspeed.com/
 http://benedictredgrove.com/      
 http://timothyachumba.com/   
 https://williamchanner.com/   
+https://matejlatin.co.uk/   
 
 ## websites
 https://distill.pub/   

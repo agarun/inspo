@@ -76,6 +76,7 @@ http://benedictredgrove.com/
 http://timothyachumba.com/   
 https://williamchanner.com/   
 https://matejlatin.co.uk/   
+https://ossipesonen.fi/   
 
 ## websites
 https://distill.pub/   

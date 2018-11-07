@@ -77,6 +77,7 @@ http://timothyachumba.com/
 https://williamchanner.com/   
 https://matejlatin.co.uk/   
 https://ossipesonen.fi/   
+http://katfukui.com/     
 
 ## websites
 https://distill.pub/   

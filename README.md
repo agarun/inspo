@@ -79,6 +79,7 @@ https://matejlatin.co.uk/
 https://ossipesonen.fi/   
 http://katfukui.com/     
 https://mxstbr.com/     
+http://genekogan.com/    
 
 ## websites
 https://distill.pub/   

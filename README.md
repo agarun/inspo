@@ -80,6 +80,7 @@ https://ossipesonen.fi/
 http://katfukui.com/     
 https://mxstbr.com/     
 http://genekogan.com/    
+https://jssr.design/    
 
 ## websites
 https://distill.pub/   

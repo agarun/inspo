@@ -85,6 +85,7 @@ https://www.taniarascia.com
 http://cenjun.com/    
 https://www.greysonmacalpine.com/     
 https://ireaderinokun.com/    
+https://ericportis.com/    
 
 ## websites
 https://distill.pub/   

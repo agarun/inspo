@@ -63,7 +63,8 @@ https://hyperglu.com/
 https://olaolu.me  
 https://www.tessera.li/  
 http://www.miukimiu.com/   
-http://www.zwartekoffie.com/     
+http://www.zwartekoffie.com/    
+https://timokuilder.com/   
 http://martijnvandenbroeck.com    
 https://www.visualcinnamon.com/   
 https://benbate.com/   
@@ -89,6 +90,8 @@ https://ericportis.com/
 http://aaronfranks.com   
 https://dmnsgn.me/    
 https://www.airtightinteractive.com/splash/    
+http://david.li/   
+http://tatiana.be      
 
 ## websites
 https://distill.pub/   

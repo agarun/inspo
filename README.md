@@ -91,7 +91,8 @@ http://aaronfranks.com
 https://dmnsgn.me/    
 https://www.airtightinteractive.com/splash/    
 http://david.li/   
-http://tatiana.be      
+http://tatiana.be       
+http://samsy.ninja/    
 
 ## websites
 https://distill.pub/   

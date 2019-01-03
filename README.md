@@ -143,6 +143,16 @@ http://nicelydone.club/
 https://pttrns.com/   
 https://reactday.berlin/      
 https://dadesign.studio/   
+http://florentbiffi.com/   
+http://www.davidpacheco.co/   
+https://www.josefinelaul.com/   
+https://www.benjaminguedj.com/    
+https://www.aristidebenoist.com/    
+http://noeldupont.fr/   
+http://thisisnate.com/     
+https://tparkes.com/   
+http://leoguenoun.com/  
+
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

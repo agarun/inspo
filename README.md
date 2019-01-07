@@ -103,6 +103,9 @@ http://thisisnate.com/
 https://tparkes.com/   
 http://leoguenoun.com/    
 http://cassidoo.co/   
+https://biron.io/   
+https://www.jonnybelton.design/   
+https://www.mattcarvalho.com/    
 
 ## websites
 https://distill.pub/   

@@ -107,6 +107,7 @@ https://biron.io/
 https://www.jonnybelton.design/   
 https://www.mattcarvalho.com/    
 https://duhaihang.com/   
+https://www.niccolomiranda.com/   
 
 ## websites
 https://distill.pub/   

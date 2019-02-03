@@ -167,6 +167,7 @@ https://dribbble.com/kylietimpani
 https://justinewin.com     
 http://arielnorling.com/        
 https://addyosmani.com/     
+https://www.malikafavre.com/   
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

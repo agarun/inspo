@@ -111,7 +111,15 @@ https://www.niccolomiranda.com/
 https://www.raoul-gaillard.com   
 https://michaelpumo.com/    
 http://www.cndsgn.com/    
-https://annabaumann.fr/   
+https://annabaumann.fr/    
+http://jesseddy.com    
+https://www.rafaelmedina.me/    
+https://bchiang7.github.io/  https://brittanychiang.com/   
+https://justinewin.com     
+http://arielnorling.com/        
+https://addyosmani.com/     
+https://www.malikafavre.com/   
+https://frederiquematti.com/    
 
 ## websites
 https://distill.pub/   
@@ -164,10 +172,7 @@ https://reactday.berlin/
 https://dadesign.studio/   
 https://phantom.land    
 https://dribbble.com/kylietimpani   
-https://justinewin.com     
-http://arielnorling.com/        
-https://addyosmani.com/     
-https://www.malikafavre.com/   
+https://www.c82.net/euclid/   
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

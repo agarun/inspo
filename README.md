@@ -120,6 +120,7 @@ http://arielnorling.com/
 https://addyosmani.com/     
 https://www.malikafavre.com/   
 https://frederiquematti.com/    
+https://maryloufaure.com    
 
 ## websites
 https://distill.pub/   

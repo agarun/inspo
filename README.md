@@ -124,6 +124,7 @@ https://maryloufaure.com
 https://serena.nz/    
 https://torihinn.com/    
 https://anamontiel.com/    
+http://sebdesign.eu/    
 
 ## websites
 https://distill.pub/   

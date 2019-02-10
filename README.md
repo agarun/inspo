@@ -121,7 +121,9 @@ https://addyosmani.com/
 https://www.malikafavre.com/   
 https://frederiquematti.com/    
 https://maryloufaure.com    
-https://serena.nz/   
+https://serena.nz/    
+https://torihinn.com/    
+https://anamontiel.com/    
 
 ## websites
 https://distill.pub/   

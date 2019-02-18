@@ -125,6 +125,7 @@ https://serena.nz/
 https://torihinn.com/    
 https://anamontiel.com/    
 http://sebdesign.eu/    
+https://jingqi.work   
 
 ## websites
 https://distill.pub/   

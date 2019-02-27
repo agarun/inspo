@@ -127,6 +127,9 @@ https://anamontiel.com/
 http://sebdesign.eu/    
 https://jingqi.work   
 https://heckhouse.com/   
+https://timroussilhe.com/    
+http://nunocoelhosantos.com/     
+http://workdiary.de/ workdiary.de/404/   
 
 ## websites
 https://distill.pub/   
@@ -181,6 +184,7 @@ https://phantom.land
 https://dribbble.com/kylietimpani   
 https://www.c82.net/euclid/   
 http://variable.io/   
+https://www.stinkstudios.com/    
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

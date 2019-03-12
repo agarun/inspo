@@ -132,6 +132,11 @@ http://nunocoelhosantos.com/
 http://workdiary.de/ workdiary.de/404/   
 https://aaronmoodie.com/   
 https://shadycharacters.co.uk/   
+https://www.vanschneider.com   
+https://www.melanieseltzer.com/   
+https://owenwillia.ms/   
+https://julie.design   
+https://varun.ca   
 
 ## websites
 https://distill.pub/   

@@ -136,7 +136,10 @@ https://www.vanschneider.com
 https://www.melanieseltzer.com/   
 https://owenwillia.ms/   
 https://julie.design   
-https://varun.ca   
+https://varun.ca    
+https://philcoffman.com/   
+https://paulrobertlloyd.com/    
+
 
 ## websites
 https://distill.pub/   

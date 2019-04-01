@@ -133,13 +133,17 @@ http://workdiary.de/ workdiary.de/404/
 https://aaronmoodie.com/   
 https://shadycharacters.co.uk/   
 https://www.vanschneider.com   
-https://www.melanieseltzer.com/   
+https://www.melanieseltzer.com/     
 https://owenwillia.ms/   
 https://julie.design   
 https://varun.ca    
 https://philcoffman.com/   
-https://paulrobertlloyd.com/    
-
+https://paulrobertlloyd.com/        
+https://adamsilver.io/    
+https://justinjackson.ca/          
+https://ryan.dimasc.io/    
+http://vincentmvdm.com      
+https://amelia.design/    
 
 ## websites
 https://distill.pub/   

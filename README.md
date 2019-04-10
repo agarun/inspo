@@ -143,7 +143,9 @@ https://adamsilver.io/
 https://justinjackson.ca/          
 https://ryan.dimasc.io/    
 http://vincentmvdm.com      
-https://amelia.design/    
+https://amelia.design/      
+http://klare.io/    
+
 
 ## websites
 https://distill.pub/   

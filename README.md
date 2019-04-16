@@ -150,8 +150,9 @@ https://gmunk.com/
 https://www.taylordunhamdesign.com      
 http://laurarbee.com     
 http://www.strelioff.com/     
-https://www.amie-chen.com/     
+https://www.amie-chen.com/        
 https://andmata.com      
+https://gilabert.design       
 
 ## websites
 https://distill.pub/   

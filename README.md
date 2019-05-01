@@ -155,6 +155,8 @@ https://andmata.com
 https://gilabert.design       
 https://vedam.de/     
 https://www.georgiacannon.com/     
+https://tatianamac.com    
+https://catherinebui.com/     
 
 ## websites
 https://distill.pub/   

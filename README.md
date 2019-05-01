@@ -154,6 +154,7 @@ https://www.amie-chen.com/
 https://andmata.com      
 https://gilabert.design       
 https://vedam.de/     
+https://www.georgiacannon.com/     
 
 ## websites
 https://distill.pub/   

@@ -158,6 +158,7 @@ https://www.georgiacannon.com/
 https://tatianamac.com    
 https://catherinebui.com/     
 https://tobiasahlin.com/       
+https://frankchimero.com/     
 
 ## websites
 https://distill.pub/   

@@ -158,9 +158,12 @@ https://www.georgiacannon.com/
 https://tatianamac.com    
 https://catherinebui.com/     
 https://tobiasahlin.com/       
-https://frankchimero.com/     
-https://tanialili.me/     
-https://nataliemarleny.com/     
+https://frankchimero.com/            
+https://tanialili.me/       
+https://nataliemarleny.com/         
+http://jennywen.ca/      
+https://joshglucas.com/      
+https://mxb.dev/    
 
 ## websites
 https://distill.pub/   

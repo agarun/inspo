@@ -159,6 +159,8 @@ https://tatianamac.com
 https://catherinebui.com/     
 https://tobiasahlin.com/       
 https://frankchimero.com/     
+https://tanialili.me/     
+https://nataliemarleny.com/     
 
 ## websites
 https://distill.pub/   

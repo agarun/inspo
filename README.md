@@ -164,6 +164,12 @@ https://nataliemarleny.com/
 http://jennywen.ca/      
 https://joshglucas.com/      
 https://mxb.dev/    
+https://fiala.uk/    
+http://jhil.co/    
+https://znck.dev/    
+https://joshglucas.com/    
+https://jlongster.com/    
+https://www.lyannedubon.com/         
 
 ## websites
 https://distill.pub/   

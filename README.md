@@ -173,6 +173,8 @@ https://www.lyannedubon.com/
 https://tr.af     
 http://sachagreif.com/        
 https://mattrothenberg.com/     
+https://www.mgrossklaus.de/     
+
 
 ## websites
 https://distill.pub/   
@@ -237,6 +239,8 @@ http://torquetorque.net/
 https://www.takearecess.com/      
 https://underconsideration.com/      
 https://www.lecabcom.fr/      
+https://www.dharma.io/      
+https://sizzy.co/        
 
 
 ## ui/ux

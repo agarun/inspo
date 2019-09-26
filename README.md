@@ -183,6 +183,8 @@ https://jilles.me/
 http://kylewilkins.com/        
 https://matthiasott.com/        
 http://annaridler.com/      
+https://fredericbriolet.com/         
+https://thefox.is/      
 
 
 ## websites

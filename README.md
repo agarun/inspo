@@ -185,6 +185,8 @@ https://matthiasott.com/
 http://annaridler.com/      
 https://fredericbriolet.com/         
 https://thefox.is/      
+https://radoslawkoziel.pl    
+https://w11i.me/    
 
 
 ## websites

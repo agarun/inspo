@@ -187,7 +187,8 @@ https://fredericbriolet.com/
 https://thefox.is/      
 https://radoslawkoziel.pl    
 https://w11i.me/    
-
+http://ktsuskin.com/    
+https://hankchizljaw.com/      
 
 ## websites
 https://distill.pub/   

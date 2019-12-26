@@ -191,7 +191,9 @@ http://ktsuskin.com/
 https://hankchizljaw.com/      
 http://ariweinkle.com/      
 https://omoss.io/      
-
+https://szymonkaliski.com/      
+http://jessicaharllee.com/      
+https://olaolu.dev/      
 
 ## websites
 https://distill.pub/   
@@ -258,8 +260,8 @@ https://underconsideration.com/
 https://www.lecabcom.fr/      
 https://www.dharma.io/      
 https://sizzy.co/        
-https://poetry.eustace.io/     
-
+https://poetry.eustace.io/      
+https://cloudflare.design/       
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

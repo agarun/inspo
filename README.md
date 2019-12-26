@@ -194,6 +194,8 @@ https://omoss.io/
 https://szymonkaliski.com/      
 http://jessicaharllee.com/      
 https://olaolu.dev/      
+https://cass.si/      
+https://magoz.studio/     
 
 ## websites
 https://distill.pub/   

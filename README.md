@@ -198,8 +198,10 @@ https://cass.si/
 https://magoz.studio/     
 https://mattrothenberg.com/       
 https://azlen.me/        
-http://philogb.github.io/        
-https://darrinhenein.com/      
+http://philogb.github.io/         
+https://darrinhenein.com/         
+https://liamcooke.com/         
+https://www.ugolsak.com/      
 
 ## websites
 https://distill.pub/   

@@ -196,7 +196,10 @@ http://jessicaharllee.com/
 https://olaolu.dev/      
 https://cass.si/      
 https://magoz.studio/     
-https://mattrothenberg.com/     
+https://mattrothenberg.com/       
+https://azlen.me/        
+http://philogb.github.io/        
+https://darrinhenein.com/      
 
 ## websites
 https://distill.pub/   

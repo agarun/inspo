@@ -202,6 +202,7 @@ http://philogb.github.io/
 https://darrinhenein.com/         
 https://liamcooke.com/         
 https://www.ugolsak.com/      
+https://philipcdavis.com/       
 
 ## websites
 https://distill.pub/   

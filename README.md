@@ -204,6 +204,8 @@ https://liamcooke.com/
 https://www.ugolsak.com/      
 https://philipcdavis.com/       
 https://peterbeshai.com/       
+https://danny-garcia.com/      
+https://destroytoday.com/     
 
 ## websites
 https://distill.pub/   

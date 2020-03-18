@@ -206,6 +206,8 @@ https://philipcdavis.com/
 https://peterbeshai.com/       
 https://danny-garcia.com/      
 https://destroytoday.com/     
+https://alexdecapri.com/     
+https://chrismaughan.com/     
 
 ## websites
 https://distill.pub/   

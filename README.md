@@ -280,6 +280,8 @@ https://cloudflare.design/
 https://www.degreeless.design/      
 https://neumorphism.io/     
 https://www.grabient.com/     
+https://www.madewithtea.com/        
+http://julesforrest.com/     
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

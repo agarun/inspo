@@ -208,6 +208,7 @@ https://danny-garcia.com/
 https://destroytoday.com/     
 https://alexdecapri.com/     
 https://chrismaughan.com/     
+https://ralphtharayil.com/     
 
 ## websites
 https://distill.pub/   

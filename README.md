@@ -209,6 +209,7 @@ https://destroytoday.com/
 https://alexdecapri.com/     
 https://chrismaughan.com/     
 https://ralphtharayil.com/     
+https://www.annamalai.me/     
 
 ## websites
 https://distill.pub/   

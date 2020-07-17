@@ -210,6 +210,7 @@ https://alexdecapri.com/
 https://chrismaughan.com/     
 https://ralphtharayil.com/     
 https://www.annamalai.me/     
+http://andrealimjo.co/    
 
 ## websites
 https://distill.pub/   

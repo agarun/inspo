@@ -212,6 +212,7 @@ https://ralphtharayil.com/
 https://www.annamalai.me/     
 http://andrealimjo.co/    
 https://wojtek.im/      
+https://ishadeed.com/         
 
 ## websites
 https://distill.pub/   

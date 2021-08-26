@@ -217,6 +217,7 @@ https://maximeheckel.com/
 http://bilebile.de/#/   
 https://wattenberger.com/   
 https://yuinchien.com/    
+http://www.akikoyamashita.com/    
 
 ## websites
 https://distill.pub/   

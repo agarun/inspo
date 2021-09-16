@@ -218,8 +218,10 @@ http://bilebile.de/#/
 https://wattenberger.com/   
 https://yuinchien.com/    
 http://www.akikoyamashita.com/    
-https://codyb.co/   https://storybook.codyb.co/    
-
+https://codyb.co/   https://storybook.codyb.co/     
+https://brianlovin.com/    
+https://sebastienlorber.com/     
+https://noahdoersing.com/       
 
 ## websites
 https://distill.pub/   

@@ -224,6 +224,8 @@ https://sebastienlorber.com/
 https://noahdoersing.com/       
 http://www.francoisrisoud.com/    
 https://benadam.me/    
+https://zenorocha.com/   
+https://paco.me/   
 
 ## websites
 https://distill.pub/   

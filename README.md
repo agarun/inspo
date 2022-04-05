@@ -226,6 +226,7 @@ http://www.francoisrisoud.com/
 https://benadam.me/    
 https://zenorocha.com/   
 https://paco.me/   
+http://marcinignac.com/    
 
 ## websites
 https://distill.pub/   

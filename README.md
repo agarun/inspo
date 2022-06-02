@@ -227,6 +227,10 @@ https://benadam.me/
 https://zenorocha.com/   
 https://paco.me/   
 http://marcinignac.com/    
+https://clay.global/     
+https://redantler.com     
+
+
 
 ## websites
 https://distill.pub/   

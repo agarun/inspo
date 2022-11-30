@@ -229,7 +229,13 @@ https://paco.me/
 http://marcinignac.com/    
 https://clay.global/     
 https://redantler.com     
-https://some.studio/    
+https://some.studio/     
+https://david-hckh.com/   
+https://www.helloshivam.com/    
+https://nevflynn.com/    
+https://zeusjones.com/   
+https://www.bryntaylor.co.uk/   
+
 
 
 

@@ -235,8 +235,8 @@ https://www.helloshivam.com/
 https://nevflynn.com/    
 https://zeusjones.com/   
 https://www.bryntaylor.co.uk/   
-
-
+https://www.gwern.net/   
+https://lynnandtonic.com/    
 
 
 ## websites

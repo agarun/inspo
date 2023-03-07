@@ -313,6 +313,7 @@ https://neumorphism.io/
 https://www.grabient.com/     
 https://www.madewithtea.com/        
 http://julesforrest.com/     
+https://fabric.so/      
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

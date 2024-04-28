@@ -238,6 +238,7 @@ https://www.bryntaylor.co.uk/
 https://www.gwern.net/   
 https://lynnandtonic.com/    
 https://davidkaneda.com/ https://cosy.af/ https://boo.ai      
+https://www.simonfosters.website/     
 
 
 ## websites

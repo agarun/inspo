@@ -239,6 +239,7 @@ https://www.gwern.net/
 https://lynnandtonic.com/    
 https://davidkaneda.com/ https://cosy.af/ https://boo.ai      
 https://www.simonfosters.website/     
+https://www.martin-laxenaire.fr/       
 
 
 ## websites

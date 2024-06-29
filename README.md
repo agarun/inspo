@@ -241,6 +241,7 @@ https://davidkaneda.com/ https://cosy.af/ https://boo.ai
 https://www.simonfosters.website/     
 https://www.martin-laxenaire.fr/       
 https://maximeheckel.com/      
+https://petertarka.com/        
 
 
 ## websites

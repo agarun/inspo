@@ -245,6 +245,8 @@ https://petertarka.com/
 https://sarahoh.info/      
 https://necatikcl.dev/     
 https://www.marco.fyi/       
+https://www.joseocando.com/           
+
 
 
 ## websites
@@ -325,6 +327,9 @@ https://daylightcomputer.com/
 https://amie.so/   
 https://dirt.fyi/    
 https://a-fresh.website/     
+https://langbase.com/         
+https://www.hiro.so/         
+
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

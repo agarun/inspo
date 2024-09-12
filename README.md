@@ -245,8 +245,8 @@ https://petertarka.com/
 https://sarahoh.info/      
 https://necatikcl.dev/     
 https://www.marco.fyi/       
-https://www.joseocando.com/           
-
+https://www.joseocando.com/            
+https://www.andyorsow.com/        
 
 
 ## websites

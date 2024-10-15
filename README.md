@@ -329,6 +329,7 @@ https://dirt.fyi/
 https://a-fresh.website/     
 https://langbase.com/         
 https://www.hiro.so/         
+https://stripe.dev/       
 
 
 ## ui/ux

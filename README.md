@@ -247,8 +247,8 @@ https://necatikcl.dev/
 https://www.marco.fyi/       
 https://www.joseocando.com/            
 https://www.andyorsow.com/        
-https://danielsun.space/      
-
+https://danielsun.space/       
+https://jzhao.xyz/     
 
 ## websites
 https://distill.pub/   

@@ -250,6 +250,7 @@ https://www.andyorsow.com/
 https://danielsun.space/       
 https://jzhao.xyz/     
 https://ped.ro/    
+https://www.alanagoyal.com/     
 
 ## websites
 https://distill.pub/   

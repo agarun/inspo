@@ -251,6 +251,7 @@ https://danielsun.space/
 https://jzhao.xyz/     
 https://ped.ro/    
 https://www.alanagoyal.com/     
+https://oguzyagiz.com/       
 
 ## websites
 https://distill.pub/   

@@ -252,6 +252,8 @@ https://jzhao.xyz/
 https://ped.ro/    
 https://www.alanagoyal.com/     
 https://oguzyagiz.com/       
+https://plusquam.studio/     
+https://nateparrott.com/        
 
 ## websites
 https://distill.pub/   

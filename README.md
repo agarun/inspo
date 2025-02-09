@@ -254,6 +254,7 @@ https://www.alanagoyal.com/
 https://oguzyagiz.com/       
 https://plusquam.studio/     
 https://nateparrott.com/        
+https://maximeheckel.com/ https://blog.maximeheckel.com/         
 
 ## websites
 https://distill.pub/   

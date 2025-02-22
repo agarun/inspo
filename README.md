@@ -254,7 +254,9 @@ https://www.alanagoyal.com/
 https://oguzyagiz.com/       
 https://plusquam.studio/     
 https://nateparrott.com/        
-https://maximeheckel.com/ https://blog.maximeheckel.com/         
+https://maximeheckel.com/ https://blog.maximeheckel.com/        
+https://www.jadefranson.com/      
+
 
 ## websites
 https://distill.pub/   
@@ -337,7 +339,8 @@ https://a-fresh.website/
 https://langbase.com/         
 https://www.hiro.so/         
 https://stripe.dev/       
-
+https://www.cleverfranke.com/      
+https://odd-hyphen.com/     
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

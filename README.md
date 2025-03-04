@@ -257,6 +257,8 @@ https://nateparrott.com/
 https://maximeheckel.com/ https://blog.maximeheckel.com/        
 https://www.jadefranson.com/      
 https://rauno.me/       
+https://glenn.me/      
+https://www.yasmins.site/     
 
 ## websites
 https://distill.pub/   
@@ -353,7 +355,9 @@ https://aerolab.co/portfolio
 https://fontsinuse.com/   
 https://uxdesign.cc/the-best-medium-publications-from-design-teams-to-follow-fc609bdd49d2 https://uxdesign.cc/   
 https://www.designbetter.co/   
-https://beautifulwebtype.com/      
+https://beautifulwebtype.com/       
+https://www.uilabs.dev/       
+
 
 ## art
 https://twitter.com/manoloidee http://manoloide.com/    

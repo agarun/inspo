@@ -259,6 +259,7 @@ https://www.jadefranson.com/
 https://rauno.me/       
 https://glenn.me/      
 https://www.yasmins.site/     
+https://www.nan.fyi/      
 
 ## websites
 https://distill.pub/   

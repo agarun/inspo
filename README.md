@@ -261,6 +261,7 @@ https://glenn.me/
 https://www.yasmins.site/     
 https://www.nan.fyi/      
 https://www.lakshb.dev/     
+https://khagwal.com/      
 
 ## websites
 https://distill.pub/   

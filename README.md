@@ -262,6 +262,7 @@ https://www.yasmins.site/
 https://www.nan.fyi/      
 https://www.lakshb.dev/     
 https://khagwal.com/      
+https://www.carlhauser.com/       
 
 ## websites
 https://distill.pub/   

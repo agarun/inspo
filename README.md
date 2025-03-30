@@ -263,6 +263,7 @@ https://www.nan.fyi/
 https://www.lakshb.dev/     
 https://khagwal.com/      
 https://www.carlhauser.com/       
+https://www.danield.design/          
 
 ## websites
 https://distill.pub/   

@@ -264,6 +264,7 @@ https://www.lakshb.dev/
 https://khagwal.com/      
 https://www.carlhauser.com/       
 https://www.danield.design/          
+https://www.yihuihu.com/       
 
 ## websites
 https://distill.pub/   

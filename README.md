@@ -265,6 +265,7 @@ https://khagwal.com/
 https://www.carlhauser.com/       
 https://www.danield.design/          
 https://www.yihuihu.com/       
+https://marijanapav.com/      
 
 ## websites
 https://distill.pub/   

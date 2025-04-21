@@ -266,6 +266,7 @@ https://www.carlhauser.com/
 https://www.danield.design/          
 https://www.yihuihu.com/       
 https://marijanapav.com/      
+https://tipografia.com.ar/       
 
 ## websites
 https://distill.pub/   

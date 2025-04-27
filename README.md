@@ -267,6 +267,8 @@ https://www.danield.design/
 https://www.yihuihu.com/       
 https://marijanapav.com/      
 https://tipografia.com.ar/       
+https://isladjan.com/       
+https://russellshawdesign.com/       
 
 ## websites
 https://distill.pub/   

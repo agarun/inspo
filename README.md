@@ -268,7 +268,10 @@ https://www.yihuihu.com/
 https://marijanapav.com/      
 https://tipografia.com.ar/       
 https://isladjan.com/       
-https://russellshawdesign.com/       
+https://russellshawdesign.com/      
+https://davidbastian.red/     
+http://danielsun.space/        
+https://www.diegoliv.works/         
 
 ## websites
 https://distill.pub/   
@@ -353,7 +356,8 @@ https://www.hiro.so/
 https://stripe.dev/       
 https://www.cleverfranke.com/      
 https://odd-hyphen.com/     
-http://danielsun.space/       
+
+
 
 ## ui/ux
 https://designsystemsrepo.netlify.com/   

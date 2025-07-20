@@ -273,6 +273,7 @@ https://davidbastian.red/
 http://danielsun.space/        
 https://www.diegoliv.works/         
 https://arun.is/        
+https://hellodani.co/    
 
 ## websites
 https://distill.pub/   
@@ -357,6 +358,7 @@ https://www.hiro.so/
 https://stripe.dev/       
 https://www.cleverfranke.com/      
 https://odd-hyphen.com/     
+
 
 
 

@@ -274,6 +274,10 @@ http://danielsun.space/
 https://www.diegoliv.works/         
 https://arun.is/        
 https://hellodani.co/    
+https://www.jkane.co      
+https://www.nrly.co/    
+https://jinsupark.com/     
+
 
 ## websites
 https://distill.pub/   
@@ -358,8 +362,11 @@ https://www.hiro.so/
 https://stripe.dev/       
 https://www.cleverfranke.com/      
 https://odd-hyphen.com/     
-
-
+https://unseen.co/   
+https://www.topology.vc/       
+https://blueyard.com     
+https://symphonyofvines.unseen.co/       
+https://basement.studio    
 
 
 ## ui/ux
@@ -375,6 +382,7 @@ https://uxdesign.cc/the-best-medium-publications-from-design-teams-to-follow-fc6
 https://www.designbetter.co/   
 https://beautifulwebtype.com/       
 https://www.uilabs.dev/       
+
 
 
 ## art

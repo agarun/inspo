@@ -278,6 +278,8 @@ https://www.jkane.co
 https://www.nrly.co/    
 https://jinsupark.com/     
 https://ingahampton.com      
+https://justinjay.wang/       
+https://www.marco.fyi/      
 
 
 ## websites

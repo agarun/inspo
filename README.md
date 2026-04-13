@@ -281,6 +281,11 @@ https://ingahampton.com
 https://justinjay.wang/       
 https://www.marco.fyi/      
 https://vanschneider.com/        
+https://www.gabrielvaldivia.com/        
+https://philipcdavis.com/         
+https://www.marco.fyi/       
+https://www.danield.design/       
+
 
 
 ## websites

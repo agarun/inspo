@@ -294,6 +294,7 @@ https://www.stewdio.ai/
 https://carlbarenbrug.com/      
 https://mattrothenberg.com/      
 https://mood.haw-lin.com/      
+https://shreygups.com/           
 
 ## websites
 https://distill.pub/   
